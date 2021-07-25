@@ -57,10 +57,6 @@
     "react-stripe-elements": "1.6.0",
     "request": "2.85.0",
     "stripe": "5.8.0",
-    "webpack": "^5.46.0",
-    "webpack-cli": "^4.7.2",
-    "webpack-dev-middleware": "^5.0.0",
-    "webpack-hot-middleware": "^2.25.0",
-    "webpack-node-externals": "^3.0.0"
+    "webpack": "^5.46.0"
   }
 }
