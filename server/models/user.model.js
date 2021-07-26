@@ -23,7 +23,7 @@ const UserSchema = new mongoose.Schema({
     type: Date,
     default: Date.now
   },
-  seller: {                         //The seller value,false by default to represent regular users and set to true to represent users who are also sellers.
+  seller: {
     type: Boolean,
     default: false
   },
